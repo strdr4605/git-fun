@@ -29,6 +29,7 @@ Repository for exploring git commands and features
 1. c
 1. d
 1. e
+1. f
 
 ## Numbers
 
